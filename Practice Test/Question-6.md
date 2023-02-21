@@ -7,10 +7,8 @@ What is the output of the following Code in C Programming Language?
     #include<stdio.h>
     int main() {
     
-        /* Local variable definition */
         int a = 10;
         
-        /* do Loop execution */
         do {
            printf("value of a: %d\n", a);
            a = a+1;
