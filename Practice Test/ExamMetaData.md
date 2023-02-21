@@ -1,7 +1,7 @@
 ## MetaData
 Product Id : SPEKTRA100ACTUALTEST
 Language : English
-Title : Assessment Test
+Title : Spektra Assessment Test
 Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 70
