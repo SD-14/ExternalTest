@@ -1,5 +1,5 @@
 ## MetaData
-QuestionType : Single Choice
+Question Type : Single Choice
 
 ## Question
 What is the output of the following Code in Python Programming Language?</br> month = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'] </br> converting_list = tuple(month) </br> print(converting_list) </br> print(type(converting_list))
