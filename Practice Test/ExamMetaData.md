@@ -5,7 +5,7 @@ Title : Spektra Assessment Test
 Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 80
-Total Sections : 2
+Total Sections : 1
 Total Questions : 10
 Minutes to Complete : 10
 CanUseActivationCode : False
