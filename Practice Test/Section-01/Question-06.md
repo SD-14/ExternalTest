@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What is the output of the following Code in C Programming Language?</br> #include<stdio.h>int main() {int a = 10; do {printf("value of a: %d\n", a);a = a+1;}while(a<=11);return 0;}
+What is the output of the following Code in C Programming Language?</br> #include<stdio.h> </br> int main() </br> { int a = 10; </br> do { </br> printf("value of a: %d\n", a); </br> a = a+1;}while(a<=11); </br> return 0; </br> }
 
 ## Note
 Each correct answer carries 1 mark
