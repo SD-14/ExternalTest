@@ -1,5 +1,5 @@
 ## MetaData
-QuestionType: Single Choice
+QuestionType : Single Choice
 
 ## Question
 What is the output of the following Code in Python Programming Language? 
@@ -13,10 +13,10 @@ What is the output of the following Code in Python Programming Language?
 Each correct answer carries 1 mark
 
 ## Options
-Option 1: 'jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'
-Option 2: ('jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec') <class 'tuple'>
-Option 3: Error
-Option 4: None of these
+Option 1 : 'jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'
+Option 2 : ('jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec') <class 'tuple'>
+Option 3 : Error
+Option 4 : None of these
 
 ## Answers
 Option 2 : 1
