@@ -4,10 +4,10 @@ QuestionType: Single Choice
 ## Question
 What is the output of the following Code in Python Programming Language? 
 
-month = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
-converting_list = tuple(month)
-print(converting_list)
-print(type(converting_list))
+    month = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+    converting_list = tuple(month)
+    print(converting_list)
+    print(type(converting_list))
 
 ## Note
 Each correct answer carries 1 mark
