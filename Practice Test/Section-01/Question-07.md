@@ -1,5 +1,5 @@
 ## MetaData
-Question Type: Single Choice
+Question Type : Single Choice
 
 ## Question
 What is the output of the following Code in C Programming Language? 
@@ -21,10 +21,10 @@ What is the output of the following Code in C Programming Language?
 Each correct answer carries 1 mark
 
 ## Options
-Option 1: 1,2,3,4
-Option 2: 0,1,4
-Option 3: 0,1,4,5
-Option 4: 1,4
+Option 1 : 1,2,3,4
+Option 2 : 0,1,4
+Option 3 : 0,1,4,5
+Option 4 : 1,4
 
 ## Answers
 Option 2 : 1
