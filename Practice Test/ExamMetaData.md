@@ -4,7 +4,7 @@ Language : English
 Title : Spektra Assessment Test
 Version : 1.0
 Product Type : Practice Test
-Pass Percentage : 70
+Pass Percentage : 80
 Total Sections : 3
 Total Questions : 45
 Minutes to Complete : 90
