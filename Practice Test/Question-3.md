@@ -4,12 +4,12 @@ Question Type: Single Choice
 ## Question
 What is the output of the following Code in C Programming Language?
 
-#include<stdio.h>
-main()
-{
-   int a = 5, b = 3, c = 4;
-   printf("a=%d, b=%d\n",a,b,c);
-}
+    #include<stdio.h>
+    main()
+    {
+       int a = 5, b = 3, c = 4;
+       printf("a=%d, b=%d\n",a,b,c);
+    }
 
 ## Note
 Each correct answer carries 1 mark
