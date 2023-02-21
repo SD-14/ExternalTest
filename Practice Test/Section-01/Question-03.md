@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What is the output of the following Code in C Programming Language? </br> #include<stdio.h>main(){int a = 5, b = 3, c = 4;printf("a=%d, b=%d\n",a,b,c);}
+What is the output of the following Code in C Programming Language? </br> #include<stdio.h> </br> main(){ </br> int a = 5, b = 3, c = 4; </br> printf("a=%d, b=%d\n",a,b,c); </br> }
 
 ## Note
 Each correct answer carries 1 mark
