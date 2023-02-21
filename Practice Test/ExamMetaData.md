@@ -1,5 +1,5 @@
 ## MetaData
-Product Id : SPEKTRA100ACTUALTEST
+Product Id : SPEKTRA100ASSESSMENT
 Language : English
 Title : Spektra Development Test
 Version : 1.0
