@@ -1,5 +1,6 @@
 ## MetaData
-Question Type : Multiple Choice Max Answers : 2
+Question Type : Multiple Choice 
+Max Answers : 2
 
 ## Question
 Which of the following is example of Cloud Platform (Select Multiple)
