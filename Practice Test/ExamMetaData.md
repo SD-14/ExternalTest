@@ -8,7 +8,6 @@ Pass Percentage : 80
 Total Sections : 1
 Total Questions : 10
 Minutes to Complete : 10
-Thumbnail : cloudlabsai.blob.core.windows.net/practicetest/Development_test.svg
 CanUseActivationCode : False
 
 ## Tags
