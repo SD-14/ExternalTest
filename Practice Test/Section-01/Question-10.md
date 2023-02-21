@@ -1,5 +1,5 @@
 ## MetaData
-Question Type : Multiple Choice </br> Max Answers : 3
+Question Type : Multiple Choice Max Answers : 3
 
 ## Question
 Which of the following are example of database solutions(Select Multiple)
