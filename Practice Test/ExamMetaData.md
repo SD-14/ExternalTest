@@ -5,7 +5,7 @@ Title : Spektra Assessment Test
 Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 80
-Total Sections : 3
+Total Sections : 2
 Total Questions : 45
 Minutes to Complete : 90
 CanUseActivationCode : False
@@ -20,4 +20,3 @@ This test is designed to assess your knowledge on the basics of Cloud and test y
 ## Sections
 Section-01
 Section-02
-Section-03
