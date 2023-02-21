@@ -1,5 +1,5 @@
 ## MetaData
-Question Type: Multiple Choice
+Question Type : Multiple Choice
 Max Answers : 3
 
 ## Question
