@@ -6,8 +6,8 @@ Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 80
 Total Sections : 2
-Total Questions : 45
-Minutes to Complete : 90
+Total Questions : 10
+Minutes to Complete : 10
 CanUseActivationCode : False
 
 ## Tags
@@ -19,4 +19,3 @@ This test is designed to assess your knowledge on the basics of Cloud and test y
 
 ## Sections
 Section-01
-Section-02
