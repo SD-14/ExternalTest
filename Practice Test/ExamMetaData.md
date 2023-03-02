@@ -4,7 +4,7 @@ Language : English
 Title : Spektra Development Test
 Version : 1.0
 Product Type : Practice Test
-Pass Percentage : 80
+Pass Percentage : 85
 Total Sections : 1
 Total Questions : 10
 Minutes to Complete : 10
